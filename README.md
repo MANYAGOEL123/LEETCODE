@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/MANYAGOEL123/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/MANYAGOEL123/LEETCODE/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/MANYAGOEL123/LEETCODE/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
